@@ -1,0 +1,29 @@
+[00:00:05] Alice: Good morning everyone, thanks for joining the weekly project sync meeting. Let's quickly review the progress on the Q3 marketing campaign.
+
+[00:00:15] Bob: From the design team, we've completed 80% of the banner ads. We're just waiting on the final copy for the last few. Target completion is end of day Friday.
+
+[00:00:30] Carol: On the content side, I've finished drafting all the social media posts. I just need to get them approved by legal. I'll send them over by tomorrow, Wednesday.
+
+[00:00:45] Alice: Great progress, team! Bob, please ensure those banner ads are finalized by end of day Friday. Carol, get those social media posts to legal as soon as possible, ideally by end of day today, Tuesday, so we can get them reviewed.
+
+[00:01:05] David: For the analytics dashboard, I've integrated the new tracking codes. The dashboard should be live by next Monday.
+
+[00:01:20] Alice: Excellent, David. We agreed last week to push the dashboard live by next Monday. That's a critical decision. Are there any blockers or questions?
+
+[00:01:35] Bob: No blockers on my end, just the copy.
+
+[00:01:40] Carol: None here.
+
+[00:01:45] Alice: Alright, one more thing. We need to decide on the budget for the influencer outreach program. Should we allocate an additional $5,000 or stick to the original plan?
+
+[00:02:00] Bob: I think an additional $5,000 would give us better reach given current market rates.
+
+[00:02:10] Carol: I agree with Bob. The ROI seems worth it.
+
+[00:02:20] David: I can support that.
+
+[00:02:25] Alice: Okay, so we've decided to allocate an additional $5,000 for the influencer outreach. I'll update the budget sheet. David, can you research potential influencers and have a preliminary list ready by next Tuesday?
+
+[00:02:45] David: Will do.
+
+[00:02:50] Alice: Fantastic. That concludes our meeting. Let's sync again next week.
